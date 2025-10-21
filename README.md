@@ -6,15 +6,15 @@
 [![OWASP](https://img.shields.io/badge/OWASP-LLM%20Top%2010-darkblue)](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 [![AWS](https://img.shields.io/badge/AWS-Security%20Best%20Practices-orange)](https://aws.amazon.com/security/)
 
-## Enhanced with GenAI-Specific Security Features 🚀
+## Enhanced with Agentic AI Specific Security Features 🚀
 
-A comprehensive security auditing tool for AWS Bedrock that combines traditional cloud security best practices with cutting-edge GenAI security capabilities. Perfect for organizations adopting generative AI while maintaining enterprise security standards.
+A comprehensive security auditing tool for AWS Bedrock that combines traditional cloud security best practices with cutting-edge Agentic AI security capabilities. Perfect for organizations adopting Agentic AI while maintaining enterprise security standards.
 
 ![AWS Bedrock Security Checker Demo](demo-screenshot.png)
 
-## 🎯 Key Features for GenAI Security
+## 🎯 Key Features for Agentic AI Security
 
-### GenAI-Specific Security Checks
+### Agentic AI-Specific Security Checks
 - **🛡️ Prompt Injection Detection**: Identifies vulnerabilities to prompt manipulation attacks
 - **🔒 Data Privacy Compliance**: Detects PII exposure risks in model interactions
 - **🧪 Model Poisoning Detection**: Monitors for signs of compromised training data
@@ -36,15 +36,15 @@ This tool requires AWS credentials to access your Bedrock resources.
 ```markdown
 # Agentic_AI_LLM_Top_10_OWASP_Checker_AWS — AWS Bedrock Security Configuration Checker
 
-## Enhanced with GenAI-Specific Security Features 🚀
+## Enhanced with Agentic AI-Specific Security Features 🚀
 
-A comprehensive security auditing tool for AWS Bedrock that combines traditional cloud security best practices with cutting-edge GenAI security capabilities. Perfect for organizations adopting generative AI while maintaining enterprise security standards.
+A comprehensive security auditing tool for AWS Bedrock that combines traditional cloud security best practices with cutting-edge Agentic AI security capabilities. Perfect for organizations adopting generative AI while maintaining enterprise security standards.
 
 ![AWS Bedrock Security Checker Demo](demo-screenshot.png)
 
-## 🎯 Key Features for GenAI Security
+## 🎯 Key Features for Agentic AI Security
 
-### GenAI-Specific Security Checks
+### Agentic AI-Specific Security Checks
 - **🛡️ Prompt Injection Detection**: Identifies vulnerabilities to prompt manipulation attacks
 - **🔒 Data Privacy Compliance**: Detects PII exposure risks in model interactions
 - **🧪 Model Poisoning Detection**: Monitors for signs of compromised training data
@@ -243,7 +243,7 @@ bedrock-security-checker --region us-west-2
 - ✅ Audit logging configuration
 - ✅ Resource tagging compliance
 
-### GenAI-Specific Security
+### Agentic AI-Specific Security
 - 🤖 Prompt injection vulnerability assessment
 - 🔍 PII detection in model configurations
 - 🛡️ Model access pattern analysis
@@ -258,7 +258,7 @@ The tool is designed with modularity and extensibility in mind:
 bedrock_security_checker.py
 ├── Security Checks
 │   ├── Traditional AWS Security
-│   └── GenAI-Specific Security
+│   └── Agentic AI-Specific Security
 ├── Reporting Modes
 │   ├── Beginner (default)
 │   ├── Expert
@@ -311,7 +311,7 @@ The tool uses a simple 1-10 risk scoring system:
 - **4-6**: Medium - Plan remediation
 - **1-3**: Low - Best practice improvements
 
-## 🛡️ GenAI Threat Model Coverage
+## 🛡️ Agentic AI Threat Model Coverage
 
 Based on OWASP Top 10 for LLMs and MITRE ATLAS:
 
@@ -343,7 +343,7 @@ This explains:
 ## 🤝 Contributing
 
 We welcome contributions! Areas of interest:
-- Additional GenAI attack patterns
+- Additional Agentic AI attack patterns
 - Integration with more AWS services
 - Support for other cloud providers
 - Enhanced remediation automation
@@ -395,10 +395,10 @@ Releases are automated via GitHub Actions. See [RELEASING.md](RELEASING.md) for 
 
 ## 🏆 Why This Tool Stands Out
 
-1. **Dual Focus**: Combines traditional cloud security with GenAI-specific risks
+1. **Dual Focus**: Combines traditional cloud security with Agentic AI-specific risks
 2. **Accessibility**: Beginner-friendly without sacrificing technical depth
 3. **Actionable**: Provides exact commands to fix issues
-4. **Educational**: Learning mode helps teams understand GenAI security
+4. **Educational**: Learning mode helps teams understand Agentic AI security
 5. **Automated**: JSON output enables CI/CD integration
 6. **Comprehensive**: Covers the full spectrum of Bedrock security concerns
 
