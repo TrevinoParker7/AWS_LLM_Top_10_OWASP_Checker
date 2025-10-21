@@ -351,7 +351,7 @@ We welcome contributions! Areas of interest:
 ### Development Setup
 ```powershell
 # Clone and install in development mode
-git clone https://github.com//aws-bedrock-security-config-check.git
+git clone https://github.com/TrevinoParker7/Agentic_AI_LLM_Top_10_OWASP_Checker_With_AWS
 cd aws-bedrock-security-config-check
 make install-dev
 
