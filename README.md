@@ -1,4 +1,4 @@
-# AWS LLM Top 10 OWASP Checker
+# Agentic AI & LLM Top 10 OWASP Checker With AWS
 [![PyPI version](https://badge.fury.io/py/bedrock-security-checker.svg)](https://pypi.org/project/bedrock-security-checker/)
 [![: GPL v3](https://img.shields.io/badge/-GPLv3-blue.svg)](https://www.gnu.org/s/gpl-3.0)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
