@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Agentic_AI_LLM_Top_10_OWASP_Checker_AWS
-=======
-#  - AWS Bedrock Security Configuration Checker
+# AWS LLM Top 10 OWASP Checker
 [![PyPI version](https://badge.fury.io/py/bedrock-security-checker.svg)](https://pypi.org/project/bedrock-security-checker/)
 [![: GPL v3](https://img.shields.io/badge/-GPLv3-blue.svg)](https://www.gnu.org/s/gpl-3.0)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -38,13 +35,6 @@ This tool requires AWS credentials to access your Bedrock resources.
 #### Quick Setup via AWS Console
 ```markdown
 # Agentic_AI_LLM_Top_10_OWASP_Checker_AWS — AWS Bedrock Security Configuration Checker
-
-[![PyPI version](https://badge.fury.io/py/bedrock-security-checker.svg)](https://pypi.org/project/bedrock-security-checker/)
-[![: GPL v3](https://img.shields.io/badge/-GPLv3-blue.svg)](https://www.gnu.org/s/gpl-3.0)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Security Audit](https://img.shields.io/badge/Security-Audit%20Tool-red)](https://github.com//aws-bedrock-security-config-check)
-[![OWASP](https://img.shields.io/badge/OWASP-LLM%20Top%2010-darkblue)](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-[![AWS](https://img.shields.io/badge/AWS-Security%20Best%20Practices-orange)](https://aws.amazon.com/security/)
 
 ## Enhanced with GenAI-Specific Security Features 🚀
 
@@ -468,8 +458,3 @@ This program is free software: you can redistribute it and/or modify it under th
 
 See the []() file for details.
 
----
-
-**Built with 🧪👽 by ET for the GenAI security community**
-
-```
